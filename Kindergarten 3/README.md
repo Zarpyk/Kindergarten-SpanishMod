@@ -1,5 +1,5 @@
 # Kindergarten 3 Mod Español
-Traducción de Kindergarten 3 a español con GPT4.1 y mod de BepInEx (5.4.23.3, incluido en el rar de descarga)
+Traducción de Kindergarten 3 a español con GPT4.1 con revisión manual de parte del contenido y mod de BepInEx (5.4.23.3, incluido en el rar de descarga) 
 
 # Requisitos
 - Windows 64 bits (En caso de otro sistema operativo, se necesita cambiar la versión de [BepInEx](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.3))
@@ -9,7 +9,7 @@ Traducción de Kindergarten 3 a español con GPT4.1 y mod de BepInEx (5.4.23.3, 
 - [Descargar el rar](https://github.com/Zarpyk/Kindergarten-SpanishMod/releases/latest)
 - Extraer el contenido del rar en la carpeta del juego
 
-![imagen](https://github.com/user-attachments/assets/519d5b30-7325-4f63-8071-9290562960c4)
+<img width="469" height="493" alt="1" src="https://github.com/user-attachments/assets/19271a35-ced8-485a-a2c3-740531cf5302" />
 
 # Ejemplos
 ![imagen](https://github.com/user-attachments/assets/f5518267-2149-4b32-b317-94019b2d8733)
