@@ -3,7 +3,7 @@ Traducción de Kindergarten 3 a español con GPT4.1 con revisión manual de part
 
 # Requisitos
 - Windows 64 bits (En caso de otro sistema operativo, se necesita cambiar la versión de [BepInEx](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.3))
-- Versión 1.01 del juego
+- Versión 1.02 del juego (Si se usa una versión superior a 1.04, puede que hayan textos rotos)
 
 # Instalación
 - [Descargar el rar](https://github.com/Zarpyk/Kindergarten-SpanishMod/releases/latest)
